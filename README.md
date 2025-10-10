@@ -31,7 +31,7 @@ I’m a passionate chemical engineering student driven by curiosity and a love f
 
 ## 🏅 Achievements & Certifications
 
-- **IBM Professional Data Analyst Certificate** (In Progress)
+- **IBM Professional Data Analyst Certificate**
 - **Junior Canadian Chemistry Olympics (JCCO) – Global Bronze Award & National Silver Award**
 
 ---
