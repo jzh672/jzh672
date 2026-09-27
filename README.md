@@ -24,8 +24,8 @@ I’m a passionate chemical engineering student driven by curiosity and a love f
 ### 1. [Solar Panel Efficiency Project](www.linkedin.com/in/jason-zhou-he-37006b326)  
 *Developed an AI-powered solution for cleaning solar panels, significantly enhancing their efficiency. Curious? [See more on my LinkedIn!](www.linkedin.com/in/jason-zhou-he-37006b326)*
 
-### 2. [ML Model for Ethanol-Water Solutions](https://github.com/jzh672/ML-Model-For-Et-Water-Solutions)  
-*A work-in-progress project leveraging machine learning to model ethanol-water solutions. Check out the [repository](https://github.com/jzh672/ML-Model-For-Et-Water-Solutions) for updates!*
+### 2. [Evaluation of a Battery Benchmarking Framework](https://github.com/jzh672/BatteryBenchmarkingFramework)  
+*A summer research project that uses nonlinear models to evaluate an existing benchmarking framework for cross-chemistry comparsion. Check out the [repository](https://github.com/jzh672/BatteryBenchmarkingFramework)*
 
 ---
 
