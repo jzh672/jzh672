@@ -33,6 +33,7 @@ I’m a passionate chemical engineering student driven by curiosity and a love f
 
 - **IBM Professional Data Analyst Certificate**
 - **Junior Canadian Chemistry Olympics (JCCO) – Global Bronze Award & National Silver Award**
+- **Univeristy of Toronto Department of Engineering Dean's Honor List (2025 Fall, 2025 Winter, 2026 Winter)**
 
 ---
 
